@@ -10,11 +10,11 @@
 
 
 ## .work
-[![sap cx](https://img.shields.io/badge/sap%20cx-474747?style=for-the-badge&logo=sap)](https://www.sap.com/products/crm.html)
-[![salesforce](https://img.shields.io/badge/salesforce-474747?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/form/demo/salesforce-products)
 
 
-## .frontend
+
+## .frontend	
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-EBEBEB?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3)
 ![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
@@ -23,31 +23,29 @@
 
 
 ## .backend
-[![nodejs](https://img.shields.io/badge/node.js-474747?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://www.python.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://)
+[![nodejs](https://img.shields.io/badge/node.js-474747?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://)
+
+
+
 
 
 
 ## .database
-![postgresSQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&labelColor=fafafa)
-![mysql](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&labelColor=fafafa)
+![postgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
 ## .devops
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
-![bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
-![jenkins](https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&labelColor=fafafa)
-![mongodb](https://img.shields.io/badge/travis%20ci-2EB459?style=for-the-badge&logo=travis)
-![mongodb](https://img.shields.io/badge/bamboo-0052CC?style=for-the-badge&logo=bamboo)
 
 
 ## .frameworks
-![vue](https://img.shields.io/badge/vue-166c8c?style=for-the-badge&logo=vue.js)
-![nuxt](https://img.shields.io/badge/nuxt-35495e?style=for-the-badge&logo=nuxt.js)
-![react](https://img.shields.io/badge/react-131313?style=for-the-badge&logo=react)
-![redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux)
-![ionic](https://img.shields.io/badge/ionic-eeeeee?style=for-the-badge&logo=ionic)
+![SpringFramework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 
 ## .ide's
@@ -64,4 +62,4 @@
 ## .learning
 ![arduino](https://img.shields.io/badge/arduino-eeeeee?style=for-the-badge&logo=arduino)
 
-tutorial: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
+tutorial: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github, https://github.com/iuricode/readme-template/blob/main/badges/badges.md
