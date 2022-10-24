@@ -63,3 +63,5 @@
 
 ## .learning
 ![arduino](https://img.shields.io/badge/arduino-eeeeee?style=for-the-badge&logo=arduino)
+
+tutorial: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
