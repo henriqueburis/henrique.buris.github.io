@@ -62,4 +62,16 @@
 ## .learning
 ![arduino](https://img.shields.io/badge/arduino-eeeeee?style=for-the-badge&logo=arduino)
 
+## .Setups
+
+Nome do Produto: g4-1116br
+- Processador: Tecnologia VISION A6 2.3GHz/1.4GHz da AMD com processador acelerado AMD de quatro núcleos A6-3400M
+- Memória: 4GB DDR3 memória de sistema (2 DIMM)
+- Memória Máxima: = 6GB
+- Placa de vídeo: AMD Radeon HD 6540G2 Dual AMD
+- Memória de vídeo: 512MB DDR3, até 2549MB de memória gráfica total
+- Disco rígido: SSD 250gb e HDD SATA 640GB (5400RPM)
+- Tela: Monitor LED HP BrightView de 14.0” e alta definição (1366 x 768)
+- Sistema operacional: Windows 7 update for 10 Home Basic original de 64 bits
+
 tutorial: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github, https://github.com/iuricode/readme-template/blob/main/badges/badges.md
