@@ -72,6 +72,7 @@ Nome do Produto: g4-1116br
 - Memória de vídeo: 512MB DDR3, até 2549MB de memória gráfica total
 - Disco rígido: SSD 250gb e HDD SATA 640GB (5400RPM)
 - Tela: Monitor LED HP BrightView de 14.0” e alta definição (1366 x 768)
+- Tela2: Monitor hp w1707 externo
 - Sistema operacional: Windows 7 update for 10 Home Basic original de 64 bits
 
 tutorial: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github, https://github.com/iuricode/readme-template/blob/main/badges/badges.md
