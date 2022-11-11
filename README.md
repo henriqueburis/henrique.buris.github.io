@@ -8,8 +8,8 @@
 
 🌍 São Paulo / Lorena / Sometimes, SP;
 
-## .Gibis
-Grupo de Inovação Baseado em Imagens e Sinais: 
+## .Grupo de Inovação Baseado em Imagens e Sinais
+[![gibis](https://github.com/henriqueburis/henriqueburis/blob/main/fig/gibis.png)](http://gibis.unifesp.br/users) 
 
 ## .work
 
