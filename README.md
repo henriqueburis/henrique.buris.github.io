@@ -69,7 +69,7 @@
 Nome do Produto: g4-1116br
 - Processador: Tecnologia VISION A6 2.3GHz/1.4GHz da AMD com processador acelerado AMD de quatro núcleos A6-3400M
 - Memória: 4GB DDR3 memória de sistema (2 DIMM)
-- Memória Máxima: = 6GB
+- Memória Máxima: = 8GB
 - Placa de vídeo: AMD Radeon HD 6540G2 Dual AMD
 - Memória de vídeo: 512MB DDR3, até 2549MB de memória gráfica total
 - Disco rígido: SSD 250gb e HDD SATA 640GB (5400RPM)
