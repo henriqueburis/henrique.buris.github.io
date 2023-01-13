@@ -28,6 +28,7 @@
 ## .backend
 [![python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://)
 [![nodejs](https://img.shields.io/badge/node.js-474747?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://)
 
@@ -60,6 +61,8 @@
 ## .versioning
 [![git](https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git)](https://git-scm.com)
 [![svn](https://img.shields.io/badge/subversion-474747?style=for-the-badge&logo=subversion)](https://subversion.apache.org)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https:)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https:)
 
 
 ## .learning
