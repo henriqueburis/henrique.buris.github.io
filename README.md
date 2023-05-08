@@ -12,7 +12,8 @@
 [![gibis](https://github.com/henriqueburis/henriqueburis/blob/main/fig/gibis.png)](http://gibis.unifesp.br/users) 
 
 ## .work
-[![gibis](https://github.com/henriqueburis/henriqueburis/blob/main/fig/agrosatelite.PNG)](https://www.agrosatelite.com.br) 
+[![gibis](https://github.com/henriqueburis/henriqueburis/blob/main/fig/agrosatelite.PNG)](https://www.agrosatelite.com.br)
+[![gibis](https://github.com/henriqueburis/henriqueburis/blob/main/fig/experian.PNG)](https://www.agrosatelite.com.br) 
 
 
 
