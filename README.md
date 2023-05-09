@@ -13,7 +13,7 @@
 
 ## .work
 [![agrosatelite](https://github.com/henriqueburis/henriqueburis/blob/main/fig/agrosatelite.PNG)](https://www.agrosatelite.com.br)
-[![experian](https://github.com/henriqueburis/henriqueburis/blob/main/fig/experian.png)](https://www.agrosatelite.com.br) 
+[![experian](https://github.com/henriqueburis/henriqueburis/blob/main/fig/experian.png)](https://) 
 
 
 
@@ -71,7 +71,18 @@
 
 ## .Setups
 
-Nome do Produto: g4-1116br
+Nome do Produto: Dell G15
+- Processador: i7
+- Memória: 16ram
+- Placa de vídeo: RTX
+- Memória de vídeo: 6gddr
+- Disco rígido: SSD 512gb
+- Tela: Monitor LED DELL 164 mhz
+- Tela2: Monitor AOC hero 174mhz 27"
+- Tela3 Monito LG 71mhz 19"
+- Sistema operacional: Linux Unbunt
+
+Nome do Produto: g4-1116br ==================> Desativado
 - Processador: Tecnologia VISION A6 2.3GHz/1.4GHz da AMD com processador acelerado AMD de quatro núcleos A6-3400M
 - Memória: 4GB DDR3 memória de sistema (2 DIMM)
 - Memória Máxima: = 8GB
