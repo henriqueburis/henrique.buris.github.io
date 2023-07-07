@@ -71,16 +71,28 @@
 
 ## .Setups
 
+Nome do Produto: Hp Elitebook G9 840
+- Processador: i7 1165g7 4.7GHZ
+- Memória: 16GB
+- Placa de vídeo: Iris Ultra 
+- Memória de vídeo: 7GDDR
+- Disco rígido: SSD 512gb
+- Tela: Monitor LED Hp FHD 120 mhz
+- Tela2: Monitor hp w1707 externo
+- Sistema operacional: Win11Pro_wolfhp
+- Teclado Mecânico Knup mindset
+
 Nome do Produto: Dell G15
-- Processador: i7
-- Memória: 16ram
-- Placa de vídeo: RTX
-- Memória de vídeo: 6gddr
+- Processador: i7 -11800H 2.30GHZ
+- Memória: 16GB
+- Placa de vídeo: Nvidia Geforce RTX 3060
+- Memória de vídeo: 6GDDR
 - Disco rígido: SSD 512gb
 - Tela: Monitor LED DELL 164 mhz
-- Tela2: Monitor AOC hero 174mhz 27"
-- Tela3 Monito LG 71mhz 19"
-- Sistema operacional: Linux Unbunt
+- Tela2: Monitor AOC hero g2 174mhz 27"
+- Tela3 Monito LG 71mhz 19" 
+- Sistema operacional: Win10_proprietario
+- Teclado Mecânico Knup mindset
 
 Nome do Produto: g4-1116br ==================> Desativado
 - Processador: Tecnologia VISION A6 2.3GHz/1.4GHz da AMD com processador acelerado AMD de quatro núcleos A6-3400M
