@@ -13,7 +13,7 @@
 
 ## .work
 [![agrosatelite](https://github.com/henriqueburis/henriqueburis/blob/main/fig/agrosatelite.PNG)](https://www.agrosatelite.com.br)
-[![experian](https://github.com/henriqueburis/henriqueburis/blob/main/fig/experian.png)](https://) 
+
 
 
 
