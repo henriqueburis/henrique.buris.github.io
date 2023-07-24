@@ -69,40 +69,4 @@
 ## .learning
 ![arduino](https://img.shields.io/badge/arduino-eeeeee?style=for-the-badge&logo=arduino)
 
-## .Setups
 
-Nome do Produto: Hp Elitebook G9 840
-- Processador: i7 1165g7 4.7GHZ
-- Memória: 16GB
-- Placa de vídeo: Iris Ultra 
-- Memória de vídeo: 7GDDR
-- Disco rígido: SSD 512gb
-- Tela: Monitor LED Hp FHD 120 mhz
-- Tela2: Monitor hp w1707 externo
-- Sistema operacional: Win11Pro_wolfhp
-- Teclado Mecânico Knup mindset
-
-Nome do Produto: Dell G15
-- Processador: i7 -11800H 2.30GHZ
-- Memória: 16GB
-- Placa de vídeo: Nvidia Geforce RTX 3060
-- Memória de vídeo: 6GDDR
-- Disco rígido: SSD 512gb
-- Tela: Monitor LED DELL 164 mhz
-- Tela2: Monitor AOC hero g2 174mhz 27"
-- Tela3 Monito LG 71mhz 19" 
-- Sistema operacional: Win10_proprietario
-- Teclado Mecânico Knup mindset
-
-Nome do Produto: g4-1116br ==================> Desativado
-- Processador: Tecnologia VISION A6 2.3GHz/1.4GHz da AMD com processador acelerado AMD de quatro núcleos A6-3400M
-- Memória: 4GB DDR3 memória de sistema (2 DIMM)
-- Memória Máxima: = 8GB
-- Placa de vídeo: AMD Radeon HD 6540G2 Dual AMD
-- Memória de vídeo: 512MB DDR3, até 2549MB de memória gráfica total
-- Disco rígido: SSD 250gb e HDD SATA 640GB (5400RPM)
-- Tela: Monitor LED HP BrightView de 14.0” e alta definição (1366 x 768)
-- Tela2: Monitor hp w1707 externo
-- Sistema operacional: Windows 7 update for 10 Home Basic original de 64 bits
-
-tutorial: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github, https://github.com/iuricode/readme-template/blob/main/badges/badges.md
